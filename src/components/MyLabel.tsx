@@ -2,7 +2,7 @@ import './MyLabel.css';
 
 
 
-interface Props {
+export interface Props {
   /** 
    * Texto que se mostrará en la etiqueta
    */
